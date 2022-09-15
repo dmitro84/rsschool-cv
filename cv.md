@@ -2,8 +2,7 @@
 
 # _Dmitry Kuchukov_ 
 _I'm a Junior Front-End Web Developer_
-</br>
-</br>
+
 
 ---
 ## Connect with me
@@ -42,8 +41,8 @@ function isDivideBy(number, a, b) {
    return false;
 }
  ```    
- 
-  ## Education
+ ##
+ ## Education
 
 - **St.  Petersburg State University of Telecommunications**
   -   Infocommunication Technologies and Communication Systems,  2004 - 2008
