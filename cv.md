@@ -41,8 +41,8 @@ function isDivideBy(number, a, b) {
   }
    return false;
 }
- ```
-
+ ```    
+ 
   ## Education
 
 - **St.  Petersburg State University of Telecommunications**
