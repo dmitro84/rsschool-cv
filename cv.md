@@ -40,9 +40,9 @@ function isDivideBy(number, a, b) {
   }
    return false;
 }
- ```    
- ##
- ## Education
+ ```      
+ 
+   ## Education
 
 - **St.  Petersburg State University of Telecommunications**
   -   Infocommunication Technologies and Communication Systems,  2004 - 2008
